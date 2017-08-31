@@ -1,7 +1,6 @@
 # Minizip. Portable zip & unzip lib 
 
-Based on the original work of [Gilles Vollant](http://www.winimage.com/zLibDll/minizip.html) and [nmoinvaz](https://github.com/nmoinvaz)
-Wrap the [minizip](https://github.com/nmoinvaz/minizip) to a shared library and execute files for Android and Unix/Linux
+Based on the original work of [Gilles Vollant](http://www.winimage.com/zLibDll/minizip.html) and [nmoinvaz](https://github.com/nmoinvaz). I wrap the [minizip](https://github.com/nmoinvaz/minizip) to a shared library and execute files for Android and Unix/Linux
 
 ### Benefits
 
