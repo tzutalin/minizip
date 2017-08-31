@@ -29,7 +29,7 @@ Include the Android.mk
 ### Usage of share library
 
 ```
-#include <miniunz.h>
+#include <minizip/miniunz.h>
 
 unzip(src, dst);
 ```

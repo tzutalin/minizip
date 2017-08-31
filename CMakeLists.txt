@@ -72,6 +72,6 @@ install(
 
 install (
     DIRECTORY ${CMAKE_SOURCE_DIR}/include/
-    DESTINATION include
+    DESTINATION include/minizip
     FILES_MATCHING PATTERN "*.h*")
 
